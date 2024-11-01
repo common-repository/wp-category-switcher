@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Category Switcher\n"
+"POT-Creation-Date: 2013-03-11 16:39+0900\n"
+"PO-Revision-Date: 2013-03-11 16:39+0900\n"
+"Last-Translator: Jordy Meow <work@meow.fr>\n"
+"Language-Team: Meow.fr <work@meow.fr>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-category-switcher.php:71
+msgid "The categories are both the same. Mmm. Please be careful!"
+msgstr "Les catégories sont identiques... ohlala, faites-attention !"
+
+#: wp-category-switcher.php:88
+msgid ""
+"This plugin switches category 2 by 2. Doing that, you can change the way "
+"WordPress picks the default category. This is particularly useful when a "
+"post belongs to 2 or more categories. This plugin modifies directly the "
+"ID's, which means you can uninstall it when you are done."
+msgstr ""
+"Ce plugin échange les ids des catégories deux par deux. Vous pourrez ainsi "
+"changer la façon dont WordPress choisi les catégories par défaut (très utile "
+"quand les posts appartiennent à deux catégories ou plus). Ce plugin modifie "
+"les ids directement, il peut donc être désinstallé une fois que l'opération "
+"est terminée."
+
+#: wp-category-switcher.php:90
+msgid "Please backup your database before switching."
+msgstr "Sauvegardez votre base de donnée avant d'utiliser cette fonction."
+
+#: wp-category-switcher.php:95
+msgid ""
+"The plugin has not been properly tested with WPML yet. You can <b>try</b>, "
+"but proper backup are more than mandatory!"
+msgstr ""
+"L'extension n'a pas été assez testée avec WPML. Allez-y doucement et "
+"préparez un backup !"
+
+#: wp-category-switcher.php:100
+msgid "Categories (ordered by id's)"
+msgstr "Catégories (triées par id)"
+
+#: wp-category-switcher.php:119
+msgid "Switch:"
+msgstr "Échanger :"
